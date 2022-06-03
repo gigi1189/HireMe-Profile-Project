@@ -1,0 +1,40 @@
+body {
+    color: #706C6D;
+    text-align: center;
+}
+
+div {
+    padding: 19px;
+}
+
+img {
+    width: 200px;
+    padding: 20px;
+}
+
+.future {
+    color: #28AE89;
+}
+
+.f {
+    color: #046307;
+}
+
+.prns {
+    color: #4caf50;
+}
+
+a {
+    color: #49a38e;
+}
+
+.jae {
+    color: #357A38;
+
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+body {
+    background-image: radial-gradient(#f5b5d1, #e4ed9d, #f3fcac);
+}
